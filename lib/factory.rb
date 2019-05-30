@@ -14,3 +14,6 @@
 # - to_a
 # - values_at
 # - ==, eql?
+
+class Factory
+end
